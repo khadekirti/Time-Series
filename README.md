@@ -13,13 +13,13 @@ Model – 1:  The first model is based entirely on reasonable summaries (e.g. av
 Model – 2:  The second should involve the fitting of a stochastic time series model.
 
 Other aspects of the report/code : 
-•	Check for stationarity and seasonality of the time-series data.
-•	Choose and detail each type of model used (including mathematical form and explanation of notation) and some details of how it was fitted. Explain why each model may be suitable for this type of data.
-•	Report full details of each fitted mod
-•	Discuss the limitations of each model with respect to this dataset
-•	Give and plot model predictions for each model over the observed data range (include the observed values somehow for comparison). Also give 95% predictive intervals for the stochastic model over this range
-•	Evaluate accuracy 1 and 2 hours ahead via final day
-•	Make predictions for test day, which will be evaluated by RMSE vs true counts for that day 
-•	Include a paragraph aimed at a member of the TransLink planning staff who may not have a statistics background, explaining how your modelling could potentially help them make decisions about how many bus/train/ferries services to run at various times to meet demand.
+  - Check for stationarity and seasonality of the time-series data
+  - Choose and detail each type of model used (including mathematical form and explanation of notation) and some details of how it was fitted. Explain why each      model may be suitable for this type of data
+  - Report full details of each fitted mod
+  - Discuss the limitations of each model with respect to this dataset
+  - Give and plot model predictions for each model over the observed data range (include the observed values somehow for comparison). Also give 95% predictive intervals for the stochastic model over this range
+  - Evaluate accuracy 1 and 2 hours ahead via final day
+  - Make predictions for test day, which will be evaluated by RMSE vs true counts for that day 
+  - Include a paragraph aimed at a member of the TransLink planning staff who may not have a statistics background, explaining how your modelling could potentially help them make decisions about how many bus/train/ferries services to run at various times to meet demand.
 
 
