@@ -23,3 +23,6 @@ Other aspects of the report/code :
   - Include a paragraph aimed at a member of the TransLink planning staff who may not have a statistics background, explaining how your modelling could potentially help them make decisions about how many bus/train/ferries services to run at various times to meet demand.
 
 
+Credits: Dr.Ian Wood
+UQ, Masters of Data Science 
+DATA7202 Statistical Methods for Data Science
