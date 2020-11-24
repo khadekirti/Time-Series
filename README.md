@@ -8,9 +8,9 @@ TransLink is interested to analyse busier time periods.
 
 There are two types of model created in this project. 
 
-Model – 1:  The first model is based entirely on reasonable summaries (e.g. averages) from past data, without a stochastic model (see for example https://otexts.com/fpp2/simple-methods.html).
+<b> Model – 1 </b>:  The first model is based entirely on reasonable summaries (e.g. averages) from past data, without a stochastic model (see for example https://otexts.com/fpp2/simple-methods.html).
 
-Model – 2:  The second should involve the fitting of a stochastic time series model.
+<b> Model – 2 </b> :  The second should involve the fitting of a stochastic time series model.
 
 Other aspects of the report/code : 
   - Check for stationarity and seasonality of the time-series data
